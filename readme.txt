@@ -77,13 +77,13 @@ However, If you're still new to HTML and CSS, I suggest that you visit the
 following tutorials:
 
  - https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
- - https://learn.shayhowe.com/html-css/
+ - http://learn.shayhowe.com/html-css/
 
 These will teach you the essentials of HTML and CSS. In addition, if you want to include
 jQuery in your skill-set, you can also check out these tutorials: 
 
  - https://code.tutsplus.com/courses/30-days-to-learn-jquery
- - https://try.jquery.com/
+ - http://try.jquery.com/
 
 
 ------------------------------------------------------------------------------------------------------ 
@@ -114,13 +114,13 @@ Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
  
 Javascript Files:
- - JQuery (https://jquery.com/)
- - Modernizr (https://modernizr.com/)
+ - JQuery (http://jquery.com/)
+ - Modernizr (http://modernizr.com/)
  - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - pace js (https://github.hubspot.com/pace/)
+ - pace js (http://github.hubspot.com/pace/)
  - ajaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
- - slick slider (https://kenwheeler.github.io/slick/)
- - final countdown (https://hilios.github.io/jQuery.countdown/)
+ - slick slider (http://kenwheeler.github.io/slick/)
+ - final countdown (http://hilios.github.io/jQuery.countdown/)
  - particle.js (https://vincentgarreau.com/particles.js/)
 
 
